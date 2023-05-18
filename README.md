@@ -2,7 +2,7 @@
 간단한 디시 보플 다운로더입니다.
 정말 간단합니다! 디시 보플 옆에 있는 '복사'버튼을 눌러 소스텍스트가 되는데 그것을 프로그램 콘솔에 그대로 붙여넣고 엔터를 눌러 간편히 보플을 다운로드할 수 있습니다.
 
-# [프로그램 다운로드](https://github.com/OFox213/DCRanking/releases) 
+# [프로그램 다운로드](https://github.com/OFox213/DCVoiceDownloader/releases) 
 편리한 다운로드와 간단한 작동 방식.
 
 # 사용법
