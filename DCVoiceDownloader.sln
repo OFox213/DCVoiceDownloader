@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCVoiceDownloader", "DCVoiceDownloader\DCVoiceDownloader.csproj", "{787936A1-497C-4236-AB42-D44C07A38793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787936A1-497C-4236-AB42-D44C07A38793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787936A1-497C-4236-AB42-D44C07A38793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787936A1-497C-4236-AB42-D44C07A38793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787936A1-497C-4236-AB42-D44C07A38793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D7C6891-4475-42E4-8ED4-3D5FB1B9F51D}
+	EndGlobalSection
+EndGlobal
