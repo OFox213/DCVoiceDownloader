@@ -7,7 +7,7 @@ using System.Xml;
 main();
 void main()
 {
-    Console.WriteLine("CONNECTING HEARTS!\n디시 보플 다운로더 V1.0\nby OFox213");
+    Console.WriteLine("CONNECTING HEARTS!\n디시 보플 다운로더 V1.0\nby OFox213, https://github.com/OFox213/DCVoiceDownloader\n\n");
     Console.Write("소스 텍스트 입력 : ");
     string? sourceHtml = Console.ReadLine();
     if (sourceHtml == null || sourceHtml.Length == 0)
